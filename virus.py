@@ -82,5 +82,5 @@ while (statusCode != 200):
         pass
     time.sleep(60) #in seconds
     
-print ("JSON enviado com sucesso para " url)
+print ("JSON enviado com sucesso para a url:" url)
 
